@@ -27,3 +27,7 @@ Extraction Process -
 The individual csv files were visualised by team members to discover if the columns and rows are well
 structured with proper values. The team after mutual discussion finalised the columns in both the data
 sets and started working ahead. 
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+Tools - 
+  Pandas, Python, PostgreSQL, SQL
